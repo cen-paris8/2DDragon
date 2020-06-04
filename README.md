@@ -7,7 +7,7 @@ https://unity3d.college/2019/06/05/how-to-make-a-game-in-unity-for-beginners/
 
 ***
 Game :
-https://cen-paris8.github.io/2DDragon/gh-pages/
+https://cen-paris8.github.io/unity-2DDragon/gh-pages/
 
 
 ***
